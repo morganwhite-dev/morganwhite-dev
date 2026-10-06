@@ -1,6 +1,6 @@
 # Hi, I'm Morgan White
 
-I'm a student at Georgia State University building projects in Python, Swift, and SQL. I'm focused on cybersecurity and AI, and I like projects where I can explain every line I wrote.
+I'm a student at Georgia State University building projects in Python, Swift, and SQL. I'm focused on cybersecurity and AI.
 
 ## What I'm working on
 
